@@ -1,0 +1,891 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap'); 
+
+
+ h1{
+    color: black;
+    position: relative;
+    text-align: center;
+    font-size: 120px;
+    padding: 139px;
+    font-family: 'Bebas Neue', cursive;
+   font-family: 'Lobster', cursive;
+
+   
+
+}
+header{
+    background-image: url(slider3.jpg);
+
+}
+body{
+    overflow-x: hidden;
+    
+}
+
+
+h2{
+    color: black;
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+    padding: 0px;
+    font-family: 'Bebas Neue', cursive;
+   font-family: 'Lobster', cursive;
+}
+.slider-btn{
+    margin-left: 20px;
+}
+.slider-btn btn{
+    background: red;
+    color: aliceblue;
+    border-radius: 0;
+    padding: 1.5rem 2rem;
+    font-size: 1rem;
+}
+.loties{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -200px;
+    
+}
+.main h1{
+    background-color: black;
+    color: rgb(223, 230, 236);
+    font-size: 110px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 75px;
+    text-decoration: underline;
+    
+}
+.carousel-item{
+height: 200px;
+width: 200px;
+}
+.shashisk img{
+    width: 487px;
+position: absolute;
+height: 608px;
+padding-left: 3px;
+overflow: hidden;
+margin-top: -608px;
+margin-left: 13px;
+background: black;
+}
+main{
+    background: black;
+}
+section{
+   
+    background-image: url(slider3.jpg)
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
+.shashi h3{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 490px;
+    color: rgb(27, 27, 20);
+} 
+.shashi p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 57px;
+    color: rgb(10, 10, 8);
+
+
+    padding-left: 547px;
+}
+ .imgs{
+    width: 411px;
+    height: 515px;
+    margin-left: 1498px;
+    margin-bottom: 2px;
+    overflow: hidden;
+    margin-top: -67px;
+  }
+
+.kartik h3{
+    font-size: 71px;
+text-align: left;
+text-decoration: underline;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+padding-left: 28px;
+
+
+}
+.kartik p{
+    text-align: center;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-size: 57px;
+color: rgb(10, 10, 8);
+padding-right: 471px;
+padding-bottom: 3px;
+margin-bottom: -456px;
+}
+.soumyask img{
+    width: 508px;
+    position: absolute;
+    height: 525px;
+    padding-left: -1px;
+    overflow: hidden;
+    margin-top: -524px;
+    margin-left: 7px;
+    background: black;
+  }
+
+.soumya h3{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 490px;
+    color: rgb(27, 27, 20);
+} 
+.soumya p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 57px;
+    color: rgb(10, 10, 8);
+
+
+    padding-left: 547px;
+}
+.imgs{
+    width: 411px;
+    height: 515px;
+    margin-left: 1498px;
+    margin-bottom: 2px;
+    overflow: hidden;
+    margin-top: -67px;
+  }
+
+.bapun h3{
+    font-size: 71px;
+text-align: left;
+text-decoration: underline;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+padding-left: 28px;
+
+
+}
+.bapun p{
+    text-align: center;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-size: 57px;
+color: rgb(10, 10, 8);
+padding-right: 471px;
+padding-bottom: 3px;
+margin-bottom: -456px;
+}
+.chinmaysk img{
+    width: 339px;
+    position: absolute;
+    height: 498px;
+    padding-left: -1px;
+    overflow: hidden;
+    margin-top: -605px;
+    margin-left: 24px;
+    background: black;
+    margin-top: -499px;
+  
+}
+.chinmay h3{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 490px;
+    color: rgb(27, 27, 20);
+} 
+.chinmay p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 57px;
+    color: rgb(10, 10, 8);
+
+
+    padding-left: 547px;
+}
+.imgs{
+    width: 411px;
+    height: 515px;
+    margin-left: 1498px;
+    margin-bottom: 2px;
+    overflow: hidden;
+    margin-top: -67px;
+  }
+
+.himanshu h3{
+    font-size: 71px;
+text-align: left;
+text-decoration: underline;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+padding-left: 28px;
+
+
+}
+.himanshu p{
+    text-align: center;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-size: 57px;
+color: rgb(10, 10, 8);
+padding-right: 471px;
+padding-bottom: 3px;
+margin-bottom: -456px;
+}
+.pramodsk img{
+    width: 501px;
+position: absolute;
+height: 523px;
+padding-left: -1px;
+overflow: hidden;
+margin-top: -523px;
+margin-left: 7px;
+background: black;
+}
+.pramod h3{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 490px;
+    color: rgb(27, 27, 20);
+} 
+.pramod p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+    font-size: 57px;
+    color: rgb(10, 10, 8);
+
+
+    padding-left: 547px;
+}
+.connect h1{
+    color: azure;
+    font-size: 147px;
+    font-family: 'Bebas Neue', cursive;
+}
+/*This is for mobile devices.*/
+@media (max-width:680px) {
+    
+
+    h1{
+       color: rgb(20, 14, 14);
+       position: relative;
+       text-align: center;
+       font-size: 52px;
+       padding: 59px;
+       
+   
+      
+   
+   }
+   header{
+       background-image: url(slider3.jpg);
+   
+   }
+   body{
+       overflow-x: hidden;
+       
+   }
+   
+   
+   h2{
+       color: black;
+       position: relative;
+       text-align: center;
+       font-size: 55px;
+       padding: 15px;
+       font-family: 'Bebas Neue', cursive;
+      font-family: 'Lobster', cursive;
+   }
+   .slider-btn{
+       margin-left: 20px;
+   }
+   .slider-btn btn{
+       background: red;
+       color: aliceblue;
+       border-radius: 0;
+       padding: 1.5rem 2rem;
+       font-size: 1rem;
+   }
+   .loties{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-top: -122px;
+       
+   }
+   .main h1{
+    background-color: black;
+    color: rgb(223, 230, 236);
+    font-size: 51px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 49px;
+    text-decoration: underline;
+       
+   }
+   .carousel-item{
+   height: 200px;
+   width: 200px;
+   }
+   .shashisk img{
+       width: 487px;
+   position: absolute;
+   height: 608px;
+   padding-left: 3px;
+   overflow: hidden;
+   margin-top: -608px;
+   margin-left: 13px;
+   background: black;
+   }
+   main{
+       background: black;
+       overflow-x: hidden;
+       
+   }
+   section{
+      
+       background-image: url(slider3.jpg)
+   }
+   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
+   .shashi h3{
+       font-family: 'Bebas Neue', cursive;
+   font-family: 'Lobster', cursive;
+   font-size: 42px;
+text-align: center;
+text-decoration: underline;
+padding-left: 12px;
+
+   
+       
+   } 
+   .shashi p{
+       text-align: center;
+       font-family: 'Bebas Neue', cursive;
+   font-family: 'Lobster', cursive;
+   overflow: hidden;
+   background-attachment: scroll, local;
+   font-size: 32px;
+   padding-bottom: 620px;
+   padding-left: 0px;
+       
+   
+      
+   }
+.shashisk img{
+    width: 389px;
+    position: absolute;
+    height: 520px;
+    padding-left: -9px;
+    overflow: hidden;
+    margin-top: -598px;
+    margin-left: 15px;
+
+
+       
+     }
+   
+   .kartik h3{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    padding-left: 17px;
+   
+   
+   }
+   .imgs{
+    width: 411px;
+ height: 515px;
+ margin-left: 2px;
+ margin-bottom: 0px;
+ overflow: hidden;
+ margin-top: 292px;
+   }
+   .kartik p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 28px;
+    color: rgb(10, 10, 8);
+    padding-right: 7px;
+    padding-bottom: 30px;
+    margin-bottom: -301px;
+  }
+   
+   .soumyask img{
+    width: 356px;
+position: absolute;
+height: 436px;
+padding-left: 0px;
+overflow: hidden;
+margin-top: -460px;
+margin-left: 26px;
+     }
+   
+   .soumya h3{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 31px;
+ text-align: center;
+ text-decoration: underline;
+ padding-left: 10px;
+ 
+   } 
+   .soumya p{
+   
+   
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    overflow: hidden;
+    background-attachment: scroll, local;
+    font-size: 32px;
+    padding-bottom: 478px;
+    padding-left: 0px;
+    padding-left: 17px;
+   }
+   .imgs{
+    width: 411px;
+    height: 515px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    margin-top: 292px;
+     }
+   
+   .bapun h3{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    padding-left: 17px;
+   
+   }
+   .bapun p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 28px;
+    color: rgb(10, 10, 8);
+    padding-right: 7px;
+    padding-bottom: 30px;
+    margin-bottom: -301px;
+   }
+   .chinmaysk img{
+    width: 338px;
+    position: absolute;
+    height: 500px;
+    padding-left: 1px;
+    overflow: hidden;
+    margin-top: -605px;
+    margin-left: 35px;
+    background: black;
+    margin-top: 5px;
+   }
+   .chinmay h3{
+    font-family: 'Lobster', cursive;
+    font-size: 34px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 0px;
+    color: rgb(27, 27, 20);
+   } 
+   .chinmay p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 29px;
+    color: rgb(10, 10, 8);
+    padding-left: 0px;
+   
+       
+   }
+   .imgs{
+    width: 411px;
+    height: 515px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    margin-top: 292px;
+     }
+   
+   .himanshu h3{
+    font-size: 34px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    padding-left: 1px;
+    padding-bottom: 13px;
+    padding-top: 519px;
+   
+   
+   }
+   .himanshu p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 26px;
+    color: rgb(10, 10, 8);
+    padding-right: 11px;
+    padding-bottom: -9px;
+    margin-bottom: -272px;
+    padding-top: -18px;
+    padding-bottom: 26px;
+   }
+   .pramodsk img{
+    width: 501px;
+    position: absolute;
+    height: 523px;
+    padding-left: -1px;
+    overflow: hidden;
+    margin-top: -2px;
+    margin-left: 7px;
+    background: black;
+   }
+   .pramod h3{
+    font-family: 'Lobster', cursive;
+    font-size: 51px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 0px;
+    color: rgb(27, 27, 20);
+   } 
+   .pramod p{
+    text-align: left;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 34px;
+    color: rgb(10, 10, 8);
+    padding-left: 39px;
+   
+   
+       
+   }
+   .connect h1{
+    color: azure;
+    font-size: 95px;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 108px;
+    margin-top: 551px;
+    
+}
+ 
+}
+/*for ipad and laptop devices*/
+@media (min-width:681px)and (max-width:1055px)
+{
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap'); 
+
+
+    h1{
+       color: black;
+       position: relative;
+       text-align: center;
+       font-size: 120px;
+       padding: 139px;
+       font-family: 'Bebas Neue', cursive;
+      font-family: 'Lobster', cursive;
+   
+      
+   
+   }
+   header{
+       background-image: url(slider3.jpg);
+   
+   }
+   body{
+       overflow-x: hidden;
+       
+   }
+   
+   
+   h2{
+       color: black;
+       position: relative;
+       text-align: center;
+       font-size: 100px;
+       padding: 0px;
+       font-family: 'Bebas Neue', cursive;
+      font-family: 'Lobster', cursive;
+   }
+   .slider-btn{
+       margin-left: 20px;
+   }
+   .slider-btn btn{
+       background: red;
+       color: aliceblue;
+       border-radius: 0;
+       padding: 1.5rem 2rem;
+       font-size: 1rem;
+   }
+   .loties{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-top: -200px;
+       
+   }
+   .main h1{
+       background-color: black;
+       color: rgb(223, 230, 236);
+       font-size: 110px;
+       display: flex;
+       justify-content: center;
+       text-align: center;
+       padding-top: 75px;
+       text-decoration: underline;
+       
+   }
+   .carousel-item{
+   height: 200px;
+   width: 200px;
+   }
+   .shashisk img{
+    width: 487px;
+    position: absolute;
+    height: 608px;
+    overflow: hidden;
+    margin-top: -1506px;
+    margin-left: 218px;
+    background: black;
+   }
+   main{
+       background: black;
+   }
+   section{
+      
+       background-image: url(slider3.jpg)
+   }
+   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
+   .shashi h3{
+    font-family: 'Lobster', cursive;
+    font-size: 74px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 1px;
+    color: rgb(27, 27, 20);
+   } 
+   .shashi p{
+    text-align: center;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-size: 50px;
+padding-top: 1007px;
+padding-left: 8px;
+   
+   
+       
+   }
+    .imgs{
+        width: 415px;
+        height: 609px;
+        margin-left: 139px;
+        margin-bottom: -3px;
+        overflow: hidden;
+        margin-top: -162px;
+        padding-bottom: 122px;
+        position: relative;
+        margin-left: 222px;
+      
+     }
+   
+   .kartik h3{
+       font-size: 71px;
+   text-align: left;
+   text-decoration: underline;
+   font-family: 'Bebas Neue', cursive;
+   font-family: 'Lobster', cursive;
+   padding-left: 28px;
+   
+   
+   }
+   .kartik p{
+    text-align: center;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-size: 48px;
+color: rgb(10, 10, 8);
+padding-right: 38px;
+padding-bottom: 148px;
+margin-bottom: 25px;
+   }
+   .soumyask img{
+    width: 487px;
+    position: absolute;
+    height: 608px;
+    overflow: hidden;
+    margin-top: -1420px;
+    margin-left: 218px;
+    background: black;
+     }
+   
+   .soumya h3{
+    font-family: 'Lobster', cursive;
+    font-size: 74px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 1px;
+    color: rgb(27, 27, 20);
+   } 
+   .soumya p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    padding-top: 1007px;
+    padding-left: 8px;
+   
+   
+       
+   }
+   .imgs{
+    width: 415px;
+    height: 609px;
+    margin-left: 139px;
+    margin-bottom: -3px;
+    overflow: hidden;
+    margin-top: -162px;
+    padding-bottom: 122px;
+    position: relative;
+    margin-left: 222px;
+  
+   }
+   
+   .bapun h3{
+    font-size: 71px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    padding-left: 28px;
+   
+   
+   }
+   .bapun p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 48px;
+    color: rgb(10, 10, 8);
+    padding-right: 38px;
+    padding-bottom: 148px;
+    margin-bottom: 25px;
+   }
+   .chinmaysk img{
+    width: 487px;
+    position: absolute;
+    height: 608px;
+    overflow: hidden;
+    margin-top: -1420px;
+    margin-left: 218px;
+    background: black;
+   }
+   .chinmay h3{
+    font-family: 'Lobster', cursive;
+    font-size: 74px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 1px;
+    color: rgb(27, 27, 20);
+   } 
+   .chinmay p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    padding-top: 1007px;
+    padding-left: 8px;
+   
+   
+   }
+   .imgs{
+    width: 415px;
+    height: 609px;
+    margin-left: 139px;
+    margin-bottom: -3px;
+    overflow: hidden;
+    margin-top: -162px;
+    padding-bottom: 122px;
+    position: relative;
+    margin-left: 222px;
+  
+     }
+   
+   .himanshu h3{
+    font-size: 71px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    padding-left: 28px;
+   
+   
+   }
+   .himanshu p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 48px;
+    color: rgb(10, 10, 8);
+    padding-right: 38px;
+    padding-bottom: 148px;
+    margin-bottom: 25px;
+   }
+   .pramodsk img{
+    width: 487px;
+    position: absolute;
+    height: 608px;
+    overflow: hidden;
+    margin-top: -1420px;
+    margin-left: 218px;
+    background: black;
+   }
+   .pramod h3{
+    font-family: 'Lobster', cursive;
+    font-size: 74px;
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 1px;
+    color: rgb(27, 27, 20);
+   } 
+   .pramod p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    padding-top: 1007px;
+    padding-left: 8px;
+   }
+   .connect h1{
+       color: azure;
+       font-size: 147px;
+       font-family: 'Bebas Neue', cursive;
+   }
+
+}
+

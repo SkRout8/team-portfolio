@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto','sens-serif';
+}
+
+
+h2{
+    font-size: 1.5rem;
+    text-align: center;
+}
+p{
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: center;
+}
+.topper{
+    text-align: center;
+    padding: 90px 30px;
+    background-color: #183b56;
+    color: whitesmoke;
+}
+.tt{
+    margin-top: 30px;
+}
+.flex{
+    display:flex;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    color: #2294ed ;
+    font-weight: 700;
+    font-family: 'Roboto','sens-serif';
+}
+.primary{
+    border: 1px solid   #1d69a3   ;
+    width: 150px;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 15px;
+  margin-left: 40px;
+}
+.primary:hover{
+    color: #183b56;
+    transition: 0.2s ease-out;
+}
+.hov:hover{
+    color: #1d69a3;
+    transition: 0.2s ease-out;
+}
+.container{
+    max-width: 1180px;
+    margin-inline: auto;
+    overflow: hidden;
+}
+.medium{
+    margin-top: 50px;
+    width: 100%;
+    height: 1000px;  
+    /* background-color: aqua; */
+}
+.area{
+  flex-direction: column;
+  max-width: 20%;
+  gap: 10px;
+  margin: 0 90px;
+}
+.hov{
+    text-align: center;
+}
+.medium1{
+    margin-top: 20px;
+    width: 100%;
+    height: 1010px; 
+    /* background-color: #2294ed; */
+}
+.area1{
+  flex-direction: column;
+  max-width: 20%;
+  gap: 10px;
+  margin: 0 90px;
+}
+.vv{
+    margin:10px 0 0 10px;
+
+}
+.bb{
+    padding: 20px;
+    margin: 0 0 50px 0; 
+}
+.secondary:hover{
+    color: #183b56;
+    transition: 0.2s ease-out;
+}
+
+.noob{
+    background-color: #b9cde4;
+}
+.ff{
+ padding: 50px;
+ color:white;
+ justify-content: center;
+ gap: 20px;
+ color:#1d69a3;
+}
+.niba{
+    padding: 5px 0 0 0;
+    background-color:#b9cde4 ;
+}
+
+@media (max-width:768px){
+    .topper{
+        color:#eee;
+    }
+    .mediumsection{
+        display: block;
+        gap: 10px;
+        margin-left: 50px;
+       
+    }
+    .area{
+        text-align: center;
+       margin: 0 50px;
+    }
+
+    .mediumsection1{
+        display: block;
+        gap: 10px;
+        margin-left: 50px;
+
+    }
+    .area1{
+        text-align: center;
+        margin:0 50px;
+    }
+}
